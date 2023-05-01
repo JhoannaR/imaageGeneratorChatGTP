@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {},
+  "name": "imagegenerator-chatgtp",
+  "version": "1.0.0",
+  "main": "apiKey.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
